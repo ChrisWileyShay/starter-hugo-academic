@@ -62,8 +62,8 @@ social:
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -72,8 +72,9 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a post-doctoral research associate at the University of Connecticut’s Human Rights Institute and an International Security Program fellow at Harvard University’s Belfer Center for Science and International Affairs. I study insurgencies, civil resistance movements, and their effects on societies and governments.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Primarily, my research tries to explain why some conflicts lead to worse subsequent human rights outcomes than others, and how these legacies can be overcome. This research draws on an array of qualitative and quantitative methods, ranging from elite interviews to difference-in-differences statistical analysis. My work has been featured in the *Journal of Global Security Studies*, the *Journal of Peace Research* (forthcoming), and *Political Violence at a Glance*.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
