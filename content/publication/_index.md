@@ -1,5 +1,6 @@
 ---
-title: Publications
+title: ''
+#was "Publications"
 cms_exclude: true
 
 # View.
