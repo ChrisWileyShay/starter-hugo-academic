@@ -77,4 +77,4 @@ highlight_name: true
 Primarily, my research tries to explain why some conflicts lead to worse subsequent human rights outcomes than others, and how these legacies can be overcome. This research draws on an array of qualitative and quantitative methods, ranging from elite interviews to difference-in-differences statistical analysis. My work has been featured in the *Journal of Global Security Studies*, the *Journal of Peace Research* (forthcoming), and *Political Violence at a Glance*.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
