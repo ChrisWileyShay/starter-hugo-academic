@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: static/uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: `static/uploads/resume.pdf`
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -77,4 +77,4 @@ I am a post-doctoral research associate at the University of Connecticut’s Hum
 Primarily, my research tries to explain why some conflicts lead to worse subsequent human rights outcomes than others, and how these legacies can be overcome. This research draws on an array of qualitative and quantitative methods, ranging from elite interviews to difference-in-differences statistical analysis. My work has been featured in the *Journal of Global Security Studies*, the *Journal of Peace Research* (forthcoming), and *Political Violence at a Glance*.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
