@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: `static/uploads/resume.pdf`
+#- icon: cv
+#  icon_pack: ai
+#  link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -72,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-(UNDER CONSTRUCTION) I am a post-doctoral research associate at the University of Connecticut’s Human Rights Institute and an International Security Program fellow at Harvard University’s Belfer Center for Science and International Affairs. I study insurgencies, civil resistance movements, and their effects on societies and governments.
+I am a post-doctoral research associate at the University of Connecticut’s Human Rights Institute and an International Security Program fellow at Harvard University’s Belfer Center for Science and International Affairs. I study insurgencies, civil resistance movements, and their effects on societies and governments.
 
 Primarily, my research tries to explain why some conflicts lead to worse subsequent human rights outcomes than others, and how these legacies can be overcome. This research draws on an array of qualitative and quantitative methods, ranging from elite interviews to difference-in-differences statistical analysis. My work has been featured in the *Journal of Global Security Studies*, the *Journal of Peace Research* (forthcoming), and *Political Violence at a Glance*.
 
