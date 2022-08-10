@@ -14,8 +14,8 @@ author_notes:
   - ''
   - ''
 
-date: '2013-07-01T00:00:00Z'
-doi: 'https://doi.org/10.1093/jogss/ogac011'
+date: '23 July 2022'
+doi: '10.1093/jogss/ogac011'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
