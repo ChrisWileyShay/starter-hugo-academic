@@ -6,16 +6,15 @@ title: 'Glee and Grievance: Emotive Events and Campaign Size in Nonviolent Resis
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - John Gledhill
-  - Allard Duursma
+  - Erica Chenoweth
 
 # Author notes (optional)
 author_notes:
-  - ''
-  - ''
+  - 'Equal authorship implied'
+  - 'Equal authorship implied'
 
 date: '23 July 2022'
-doi: 'https://doi.org/10.1093/jogss/ogac011'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-01T00:00:00Z'
