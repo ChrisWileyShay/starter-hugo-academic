@@ -52,7 +52,7 @@ summary:  'In this article, we introduce the Nonviolent and Violent Campaigns an
 temporal scope. We use these data to describe seven decades of global resistance and to probe
 several claims garnered from existing literature.'  
 
-tags: []
+tags: [Nonviolent resistance]
 
 # Display this page in the Featured widget?
 featured: true
