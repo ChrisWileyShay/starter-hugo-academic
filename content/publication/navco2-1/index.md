@@ -47,7 +47,7 @@ more common feature of contemporary nonviolent campaigns compared with earlier c
 article concludes with suggestions for further research.'
 
 # Summary. An optional shortened abstract.
-summary:  In this article, we introduce the Nonviolent and Violent Campaigns and Outcomes (NAVCO) 2.1 
+summary: 'In this article, we introduce the Nonviolent and Violent Campaigns and Outcomes (NAVCO) 2.1 
 dataset, a campaign-year dataset that adds new cases and variables to NAVCO 2.0. We use these data to 
 explore and describe the relative extent, fatality rates, and efficacy of global violent and nonviolent
 resistance over time since World War II. We also probe recent claims garnered from existing literature,
