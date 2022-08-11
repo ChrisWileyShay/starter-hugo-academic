@@ -27,7 +27,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Peace Research* (forthcoming)
-publication_short: In *JPR* (forthcoming)
+publication_short: 'In *JPR* (forthcoming)'
 
 abstract: 'In this article, we introduce an updated version of the Nonviolent and Violent Campaigns and
 Outcomes dataset (NAVCO 2.1), which compiles annual data on 389 nonviolent and violent
@@ -52,7 +52,7 @@ summary:  'In this article, we introduce the Nonviolent and Violent Campaigns an
 temporal scope. We use these data to describe seven decades of global resistance and to probe
 several claims garnered from existing literature.'  
 
-tags: [Nonviolent resistance]
+tags: [Nonviolent resistance] [Insurgencies] [Contentious politics]
 
 # Display this page in the Featured widget?
 featured: true
