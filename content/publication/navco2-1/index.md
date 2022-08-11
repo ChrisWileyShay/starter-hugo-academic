@@ -27,7 +27,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Peace Research* (forthcoming)
-publication_short: 'In *JPR* (forthcoming)'
+publication_short: In *JPR* (forthcoming)
 
 abstract: 'In this article, we introduce an updated version of the Nonviolent and Violent Campaigns and
 Outcomes dataset (NAVCO 2.1), which compiles annual data on 389 nonviolent and violent
