@@ -1,5 +1,5 @@
 ---
-title: 'This may be the largest wave of nonviolent mass movements in world history. What comes next?'
+title: 'Updating Nonviolent Campaigns: Introducing NAVCO 2.1'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -21,7 +21,7 @@ date: '16 November 2019'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-11-01T00:00:00Z'
+publishDate: '2019-11-16T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,20 +30,41 @@ publishDate: '2019-11-01T00:00:00Z'
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Monkey Cage (Washington Post)*
-publication_short: In *Monkey Cage*
+publication: In *Journal of Peace Research* (forthcoming)
+publication_short: In *JPR* (forthcoming)
 
-abstract: 'Social media has made mass protests easier to organize — but, perhaps paradoxically, harder to resolve.'  
+abstract: 'In this article, we introduce an updated version of the Nonviolent and Violent Campaigns and
+Outcomes dataset (NAVCO 2.1), which compiles annual data on 389 nonviolent and violent
+mass movements for regime change, anti-occupation, and secession from 1945 to 2013. This
+version of the dataset corrects known coding errors in NAVCO 2.0, adds news cases (including
+the Arab uprisings), and codes attributes for each campaign year (such as participation size and
+diversity, the behavior of regime elites, repression and its effects, support from external actors,
+and campaign outcomes). In addition, NAVCO 2.1 adds several new attributes to each
+campaign-year, including more precise participation figures, more nuanced data about the
+scope, intensity, and degree of violent flank behavior and state repression, and further
+information about the parallel or alternative institutions developed by the campaign. The data
+reveal four key findings: (1) that the success rate of nonviolent resistance campaigns has
+declined since 2001; (2) that far more people have participated in nonviolent than violent
+campaigns in the postwar period; (3) that nonviolent campaigns suffer far fewer per-capita
+fatalities than armed campaigns; and (4) that incidental violence by dissidents has become a
+more common feature of contemporary nonviolent campaigns compared with earlier cases. The
+article concludes with suggestions for further research.'
 
-tags: ["Nonviolent resistance", "Contentious politics"]
+# Summary. An optional shortened abstract.
+summary:  'In this article, we introduce the Nonviolent and Violent Campaigns and Outcomes (NAVCO) 
+2.1 dataset, which adds several new variables to NAVCO 2.0 as well as significantly expanding its
+temporal scope. We use these data to describe seven decades of global resistance and to probe
+several claims garnered from existing literature.'  
+
+tags: ["Nonviolent resistance", "Insurgencies", "Contentious politics"]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Custom Link
-   url: 'https://www.washingtonpost.com/politics/2019/11/16/this-may-be-largest-wave-nonviolent-mass-movements-world-history-what-comes-next/'
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
 url_pdf: ''
 url_code: ''
@@ -57,7 +78,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Daryana Rivera**](https://en.wikipedia.org/wiki/Telegramgate#/media/File:Protesters_celebrate_Ricardo_Rossello_resignation.jpg)'
+  caption: 'Image credit: [**Min Ratna Bajracharya**](https://en.wikipedia.org/wiki/1990_Nepalese_revolution#/media/File:An_Iconic_Photograph_of_1990_Nepalese_revolution.jpg)'
   focal_point: ''
   preview_only: false
 
