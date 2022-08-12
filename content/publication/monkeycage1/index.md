@@ -35,8 +35,8 @@ publication_short: In *Monkey Cage*
 
 abstract: 'In this post for the Washington Post's Monkey Cage, we take stock of recent nonviolent 
 massmovements, and draw several inferences about the ways activists and governments have evolved 
-to contend against one another. First, nonviolent movements are increasingly dealing with /'violent
-flanks./' Second, technological innovation both helps and hinders organizers. Third, dictators are
+to contend against one another. First, nonviolent movements are increasingly dealing with violent
+flanks. Second, technological innovation both helps and hinders organizers. Third, dictators are
 relying on counterdemonstrations. And finally, leaderless movements face greater barriers to
 capitalize on tactical victories against governments.
 
