@@ -38,7 +38,7 @@ massmovements, and draw several inferences about the ways activists and governme
 to contend against one another. First, nonviolent movements are increasingly dealing with violent
 flanks. Second, technological innovation both helps and hinders organizers. Third, dictators are
 relying on counterdemonstrations. And finally, leaderless movements face greater barriers to
-capitalize on tactical victories against governments.
+capitalize on tactical victories against governments.'
 
 # Summary. An optional shortened abstract.
 summary:  'In this article, we introduce the Nonviolent and Violent Campaigns and Outcomes (NAVCO) 
