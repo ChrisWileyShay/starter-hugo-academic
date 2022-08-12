@@ -35,14 +35,14 @@ publication_short: In *Monkey Cage*
 
 abstract: 'In this post, we take stock of recent nonviolent mass movements, drawing four inferences about the
 ways activists and governments have evolved to contend against one another. First, nonviolent movements are 
-increasingly having to deal with violent fringe elements. Second, technological innovations have both helped
+increasingly dealing with violent fringe elements. Second, technological innovations have both helped
 and hindered movement organizers. Third, dictators are increasingly relying on counterdemonstrations. And
 finally, it is harder for leaderless movements to capitalize on tactical victories against governments.'
 
 # Summary. An optional shortened abstract.
 summary:  'Social media has made mass protests easier to organize — but, perhaps paradoxically, harder to resolve.'  
 
-tags: ["Nonviolent resistance", "Insurgencies", "Contentious politics"]
+tags: ["Nonviolent resistance", "Contentious politics", "State repression"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -64,7 +64,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Min Ratna Bajracharya**](https://en.wikipedia.org/wiki/1990_Nepalese_revolution#/media/File:An_Iconic_Photograph_of_1990_Nepalese_revolution.jpg)'
+  caption: 'Image credit: [**Daryana Rivera**](https://en.wikipedia.org/wiki/Telegramgate#/media/File:Protesters_celebrate_Ricardo_Rossello_resignation.jpg)'
   focal_point: ''
   preview_only: false
 
