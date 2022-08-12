@@ -31,14 +31,24 @@ publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Monkey Cage (Washington Post)* 
-publication_short: In *Monkey Cage* 
+publication_short: In *JPR* 
 
-abstract: 'In this post for the Washington Post's Monkey Cage, we take stock of recent nonviolent 
-massmovements, and draw several inferences about the ways activists and governments have evolved 
-to contend against one another. First, nonviolent movements are increasingly dealing with violent
-flanks. Second, technological innovation both helps and hinders organizers. Third, dictators are
-relying on counterdemonstrations. And finally, leaderless movements face greater barriers to
-capitalize on tactical victories against governments.'
+abstract: 'In this article, we introduce an updated version of the Nonviolent and Violent Campaigns and
+Outcomes dataset (NAVCO 2.1), which compiles annual data on 389 nonviolent and violent
+mass movements for regime change, anti-occupation, and secession from 1945 to 2013. This
+version of the dataset corrects known coding errors in NAVCO 2.0, adds news cases (including
+the Arab uprisings), and codes attributes for each campaign year (such as participation size and
+diversity, the behavior of regime elites, repression and its effects, support from external actors,
+and campaign outcomes). In addition, NAVCO 2.1 adds several new attributes to each
+campaign-year, including more precise participation figures, more nuanced data about the
+scope, intensity, and degree of violent flank behavior and state repression, and further
+information about the parallel or alternative institutions developed by the campaign. The data
+reveal four key findings: (1) that the success rate of nonviolent resistance campaigns has
+declined since 2001; (2) that far more people have participated in nonviolent than violent
+campaigns in the postwar period; (3) that nonviolent campaigns suffer far fewer per-capita
+fatalities than armed campaigns; and (4) that incidental violence by dissidents has become a
+more common feature of contemporary nonviolent campaigns compared with earlier cases. The
+article concludes with suggestions for further research.'
 
 # Summary. An optional shortened abstract.
 summary:  'In this article, we introduce the Nonviolent and Violent Campaigns and Outcomes (NAVCO) 
