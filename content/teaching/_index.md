@@ -16,7 +16,10 @@ header:
 ---
 
 **Courses taught** (instructor of record)  
-* *Introduction to International Politics* (2019, 2020)
+* *Introduction to International Politics*  
+    *  Evaluations  
+        *  2019
+        *  2020
   
 
 **Teaching assistant experience**  
