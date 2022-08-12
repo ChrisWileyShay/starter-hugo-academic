@@ -48,9 +48,9 @@ tags: ["Nonviolent resistance", "Contentious politics", "State repression"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Custom Link
+   url: https://www.washingtonpost.com/politics/2019/11/16/this-may-be-largest-wave-nonviolent-mass-movements-world-history-what-comes-next/
 
 url_pdf: ''
 url_code: ''
