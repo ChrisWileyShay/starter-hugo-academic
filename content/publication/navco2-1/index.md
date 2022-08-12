@@ -75,7 +75,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Min Ratna Bajracharya**](https://en.wikipedia.org/wiki/1990_Nepalese_revolution#/media/File:An_Iconic_Photograph_of_1990_Nepalese_revolution.jpg)'
-  focal_point: 'Bottom'
+  focal_point: 'Middle'
   preview_only: false
 
 # Associated Projects (optional).
