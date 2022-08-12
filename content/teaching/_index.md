@@ -16,9 +16,9 @@ header:
 ---
 
 **Courses taught** (instructor of record)  
-*Introduction to International Politics*, 2019, 2020
+* *Introduction to International Politics* (2019, 2020)
 
 **Teaching assistant experience**  
-*Research Methods*  
-*International Politics* (MA level)  
-*Comparative Politics in the Twenty-first Century* (MA level)
+* *Research Methods*  
+* *International Politics* (MA level)  
+* *Comparative Politics in the Twenty-first Century* (MA level)
