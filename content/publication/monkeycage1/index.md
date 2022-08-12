@@ -1,5 +1,5 @@
 ---
-title: 'Updating Nonviolent Campaigns: Introducing NAVCO 2.1'
+title: 'This may be the largest wave of nonviolent mass movements in world history. What comes next?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -51,10 +51,7 @@ more common feature of contemporary nonviolent campaigns compared with earlier c
 article concludes with suggestions for further research.'
 
 # Summary. An optional shortened abstract.
-summary:  'In this article, we introduce the Nonviolent and Violent Campaigns and Outcomes (NAVCO) 
-2.1 dataset, which adds several new variables to NAVCO 2.0 as well as significantly expanding its
-temporal scope. We use these data to describe seven decades of global resistance and to probe
-several claims garnered from existing literature.'  
+summary:  'Social media has made mass protests easier to organize — but, perhaps paradoxically, harder to resolve.'  
 
 tags: ["Nonviolent resistance", "Insurgencies", "Contentious politics"]
 
