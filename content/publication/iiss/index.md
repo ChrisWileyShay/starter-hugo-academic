@@ -6,11 +6,6 @@ title: 'The Naxalite conflict: heating up or fading away?'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Erica Chenoweth
-  - Sirianne Dahlum
-  - Sooyeon Kang
-  - Zoe Marks
-  - Tore Wig
 
 # Author notes (optional)
 author_notes:
@@ -31,7 +26,7 @@ publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In International Institute for Strategic Studies (Blog)' 
-publication_short: In *IISS* 
+publication_short: In IISS Blog
 
 abstract: 'The Maoist insurgency in east India is facing a recruitment crisis and increasing numbers of fatalities and surrenders – but its decline is not inevitable.'
 
@@ -60,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Daryana Rivera**](https://en.wikipedia.org/wiki/Telegramgate#/media/File:Protesters_celebrate_Ricardo_Rossello_resignation.jpg)'
+  caption: 'Image credit: [**Surendra Singh Kaswan**](https://en.wikipedia.org/wiki/Indian_Armed_Forces#/media/File:A_Senior_CoBRA_Force_Officer.jpg)'
   focal_point: ''
   preview_only: false
 
