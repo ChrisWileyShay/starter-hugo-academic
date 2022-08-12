@@ -49,7 +49,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Custom Link
+ - name: Link to Monkey Cage
    url: https://www.washingtonpost.com/politics/2019/11/16/this-may-be-largest-wave-nonviolent-mass-movements-world-history-what-comes-next/
 
 url_pdf: ''
