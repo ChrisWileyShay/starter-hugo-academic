@@ -33,7 +33,11 @@ publication_types: ['0']
 publication: In *Monkey Cage (Washington Post)* 
 publication_short: In *Monkey Cage* 
 
-abstract: test
+abstract: In this post, we take stock of recent nonviolent mass movements, drawing four inferences about the
+ways activists and governments have evolved to contend against one another. First, nonviolent movements are 
+increasingly having to deal with violent fringe elements. Second, technological innovations have both helped
+and hindered movement organizers. Third, dictators are increasingly relying on counterdemonstrations. And
+finally, it is harder for leaderless movements to capitalize on tactical victories against governments.
 
 # Summary. An optional shortened abstract.
 summary:  'Social media has made mass protests easier to organize — but, perhaps paradoxically, harder to resolve.'  
