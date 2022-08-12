@@ -18,7 +18,7 @@ header:
 **Courses taught** (instructor of record)  
 * *Introduction to International Politics*  
     *  Evaluations  
-        *  [2019](/teaching/2019eval.pdf/)
+        *  [2019](/teaching/eval2019.pdf/)
         *  2020
   
 
