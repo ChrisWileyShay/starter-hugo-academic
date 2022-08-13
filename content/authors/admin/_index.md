@@ -10,8 +10,7 @@ role: Post-doctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 'University of Connecticut  
-  Harvard University'
+  - name: University of Connecticut / Harvard University
     url: https://humanrights.uconn.edu/person/christopher-shay/#:~:text=Christopher%20Shay%20is%20a%20post,%2C%20and%20post%2Dconflict%20outcomes./
 
 # Short bio (displayed in user profile at end of posts)
