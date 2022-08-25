@@ -18,13 +18,13 @@ header:
 **Instructor**  
 * *Introduction to International Politics*  
   *  [Winter 2019](/teaching/eval2019.pdf/)
-  *  [Spring 2021](/teaching/eval2021.pdf/)
+  *  [Spring 2021](/teaching/eval2021.pdf/) (remote)
   
 
 **Teaching Assistant** 
 * *Global Issues Research Practicum (Prof. Kate Tennis)*  
 * *Intro. to International Politics (Prof. Jonathan Moyer)* 
-  * *[Fall 2018](/teaching/eval_ta_2018.pdf/)
+  * [Fall 2018](/teaching/eval_ta_2018.pdf/)
 * *Politics of Deeply Divided Societies (Prof. Tim Sisk)*
 * *International Politics (MA level) (Prof. Jack Donnelly)*  
 * *Comparative Politics in the 21st Century (MA level) (Prof. Tim Sisk)*
