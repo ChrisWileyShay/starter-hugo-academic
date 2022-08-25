@@ -22,7 +22,7 @@ header:
         *  [Spring 2021](/teaching/eval2021.pdf/)
   
 
-**Teaching Assistant** *
+**Teaching Assistant (Evaluations where available)** 
 * *Global Issues Research Practicum (Prof. Kate Tennis)*  
 * *Intro. to International Politics (Prof. Jonathan Moyer)* 
   * [Fall 2018](/teaching/eval_ta_2018.pdf/)
