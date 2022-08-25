@@ -25,6 +25,6 @@ header:
 * *Global Issues Research Practicum (Prof. Kate Tennis)*  
 * *Intro. to International Politics (Prof. Jonathan Moyer)* 
   * [Fall 2018](/teaching/eval_ta_2018.pdf/)
-* *Politics of Deeply Divided Societies (Prof. Tim Sisk)*
+* *Politics of Deeply Divided Societies (MA level) (Prof. Tim Sisk)*
 * *International Politics (MA level) (Prof. Jack Donnelly)*  
 * *Comparative Politics in the 21st Century (MA level) (Prof. Tim Sisk)*
