@@ -15,14 +15,14 @@ header:
   image: ''
 ---
 
-**Courses taught** (instructor of record)  
+**Instructor**  
 * *Introduction to International Politics*  
     *  Student evaluations  
         *  [2019](/teaching/eval2019.pdf/)
         *  2020  
   
 
-**Teaching assistant experience**  
+**Teaching Assistant**  
 * *Research Methods*  
 * *Introduction to International Politics*  
 * *International Politics* (MA level)  
