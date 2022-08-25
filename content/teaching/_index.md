@@ -17,12 +17,11 @@ header:
 
 **Instructor**  
 * *Introduction to International Politics*  
-    *  Student evaluations  
-        *  [Winter 2019](/teaching/eval2019.pdf/)
-        *  [Spring 2021](/teaching/eval2021.pdf/)
+  *  [Winter 2019](/teaching/eval2019.pdf/)
+  *  [Spring 2021](/teaching/eval2021.pdf/)
   
 
-**Teaching Assistant (Evaluations where available)** 
+**Teaching Assistant** 
 * *Global Issues Research Practicum (Prof. Kate Tennis)*  
 * *Intro. to International Politics (Prof. Jonathan Moyer)* 
   * *[Fall 2018](/teaching/eval_ta_2018.pdf/)
