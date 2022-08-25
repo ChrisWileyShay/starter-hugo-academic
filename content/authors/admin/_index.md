@@ -13,6 +13,7 @@ organizations:
   - name: University of Connecticut 
     url: https://humanrights.uconn.edu/person/christopher-shay/#:~:text=Christopher%20Shay%20is%20a%20post,%2C%20and%20post%2Dconflict%20outcomes./
   - name: Harvard University
+    url: https://www.belfercenter.org/person/christopher-wiley-shay
 # Short bio (displayed in user profile at end of posts)
 bio: I study civil wars and nonviolent resistance movements, and especially their legacies on societies and governments.
 
