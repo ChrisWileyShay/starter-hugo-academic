@@ -15,15 +15,13 @@ header:
   image: ''
 ---
 
-**Courses taught** (instructor of record)  
+**Instructor**  
 * *Introduction to International Politics*  
-    *  Student evaluations  
-        *  [2019](/teaching/eval2019.pdf/)
-        *  2020  
-  
+  *  [Syllabus (2021)](/teaching/syllabus2021.pdf/)  
 
-**Teaching assistant experience**  
-* *Research Methods*  
-* *Introduction to International Politics*  
-* *International Politics* (MA level)  
-* *Comparative Politics in the Twenty-first Century* (MA level)
+**Teaching Assistant** 
+* *Global Issues Research Practicum (Prof. Kate Tennis)*  
+* *Intro. to International Politics (Prof. Jonathan Moyer)* 
+* *Politics of Deeply Divided Societies (MA level) (Prof. Tim Sisk)*
+* *International Politics (MA level) (Prof. Jack Donnelly)*  
+* *Comparative Politics in the 21st Century (MA level) (Prof. Tim Sisk)*
