@@ -1,5 +1,5 @@
 ---
-title: 'This may be the largest wave of nonviolent mass movements in world history. What comes next?'
+title: 'Putting on a Show Can Be Revolutionary- Here's Why'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
