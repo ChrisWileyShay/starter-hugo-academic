@@ -58,7 +58,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Ввласенко**](https://en.wikipedia.org/wiki/Euromaidan#/media/File:Protester_Piano_Extremist_plays_on_the_roof_burned_%22Berkut%22_bus._The_barricade_across_Hrushevskoho_str._Kiev,_10.02.2014..jpg)'
-  focal_point: 'Top'
+  focal_point: 'Smart'
   preview_only: false
 
 # Associated Projects (optional).
