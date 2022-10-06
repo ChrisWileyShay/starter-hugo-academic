@@ -1,23 +1,21 @@
 ---
-title: 'This may be the largest wave of nonviolent mass movements in world history. What comes next?'
+title: 'Putting on a Show Can Be Revolutionary-- Here's Why'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Erica Chenoweth
-  - Sirianne Dahlum
-  - Sooyeon Kang
-  - Zoe Marks
-  - Tore Wig
+  - John Gledhill
+  - Allard Duursma
+
 
 # Author notes (optional)
 author_notes:
   - ''
   - ''
 
-date: '16 November 2019'
+date: '06 October 2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,17 +28,13 @@ publishDate: '2019-11-16T00:00:00Z'
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Monkey Cage (Washington Post)* 
-publication_short: In *Monkey Cage* 
+publication: In *Political Violence at a Glance* 
+publication_short: In *Political Violence at a Glance* 
 
-abstract: 'In this post, we take stock of recent nonviolent mass movements, drawing four inferences about the
-ways activists and governments have evolved to contend against one another. First, nonviolent movements are 
-increasingly dealing with violent fringe elements. Second, technological innovations have both helped
-and hindered movement organizers. Third, dictators are increasingly relying on counterdemonstrations. And
-finally, it is harder for leaderless movements to capitalize on tactical victories against governments.'
+abstract: 'In this post, we discuss our recent article published in the **Journal of Global Security Studies**, in which We argue that nonviolent resistance movements often recruit more participants using staged shows and shared cultural performances. These events provide emotional “rewards” that can only be experienced by individuals who are physically present at rallies and protests. Depending on the content of the concert or communal performance, that emotional reward can range from experiencing feelings of joy, empowerment, and solidarity alongside performances that lift spirits (e.g. “We Shall Overcome” as an anthem of the Civil Rights movement), through to catharsis alongside performances that invoke collective grieving (e.g. the anti-apartheid lament “Senzeni Na” (“What have we done?”)). Whatever the nature of the emotional release, however, it can only be experienced by individuals who are actually present at the campaign events that feature the concerts or communal performances in question. Following an online stream of Bad Bunny and Ricky Martin appearing before crowds of singing protestors who are calling for the resignation of Puerto Rico’s governor is just not the same as being there.'
 
 # Summary. An optional shortened abstract.
-summary:  'Social media has made mass protests easier to organize — but, perhaps paradoxically, harder to resolve.'  
+#summary:  'Social media has made mass protests easier to organize — but, perhaps paradoxically, harder to resolve.'  
 
 tags: ["Nonviolent resistance", "Contentious politics", "State repression"]
 
@@ -49,8 +43,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Link to Monkey Cage
-   url: https://www.washingtonpost.com/politics/2019/11/16/this-may-be-largest-wave-nonviolent-mass-movements-world-history-what-comes-next/
+ - name: Link to Political Violence at a Glance
+   url: https://politicalviolenceataglance.org/2022/10/06/putting-on-a-show-can-be-revolutionary-heres-why/
 
 url_pdf: ''
 url_code: ''
