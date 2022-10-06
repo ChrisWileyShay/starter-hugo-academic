@@ -35,7 +35,7 @@ publication_short: In *Political Violence at a Glance*
 # Summary. An optional shortened abstract.
 summary:  In this post, we discuss our recent article published in the **Journal of Global Security Studies**, in which We argue that nonviolent resistance movements often recruit more participants using staged shows and shared cultural performances. These events provide emotional “rewards” that can only be experienced by individuals who are physically present at rallies and protests. Depending on the content of the concert or communal performance, that emotional reward can range from experiencing feelings of joy, empowerment, and solidarity alongside performances that lift spirits (e.g. “We Shall Overcome” as an anthem of the Civil Rights movement), through to catharsis alongside performances that invoke collective grieving (e.g. the anti-apartheid lament “Senzeni Na” (“What have we done?”)). Whatever the nature of the emotional release, however, it can only be experienced by individuals who are actually present at the campaign events that feature the concerts or communal performances in question. Following an online stream of Bad Bunny and Ricky Martin appearing before crowds of singing protestors who are calling for the resignation of Puerto Rico’s governor is just not the same as being there.
 
-tags: [Nonviolent resistance] [Contentious politics] [Social movements]
+tags: [Nonviolent resistance] 
 
 # Display this page in the Featured widget?
 featured: true
