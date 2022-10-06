@@ -5,19 +5,16 @@ title: 'Putting on a Show Can Be Revolutionary.'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - John Gledhill
+  - Allard Duursma
   - admin
-  - Erica Chenoweth
-  - Sirianne Dahlum
-  - Sooyeon Kang
-  - Zoe Marks
-  - Tore Wig
 
 # Author notes (optional)
 author_notes:
   - ''
   - ''
 
-date: '16 November 2019'
+date: '06 October 2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
