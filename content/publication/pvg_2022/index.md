@@ -1,5 +1,5 @@
 ---
-title: 'Putting on a Show Can Be Revolutionary. Here's Why'
+title: 'Putting on a Show Can Be Revolutionary.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
