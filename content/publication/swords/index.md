@@ -1,5 +1,5 @@
 ---
-title: 'Updating Nonviolent Campaigns: Introducing NAVCO 2.1'
+title: 'Swords into ploughshares? Why human rights abuses persist after resistance campaigns'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
