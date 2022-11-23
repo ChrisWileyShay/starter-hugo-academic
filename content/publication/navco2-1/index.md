@@ -58,9 +58,9 @@ tags: ["Nonviolent resistance", "Insurgencies", "Contentious politics"]
 featured: true
 
 # Custom links (uncomment lines below)
- links:
-- name: Link to journal issue
-   url: https://journals.sagepub.com/toc/jpra/59/6
+links:
+ - name: Link to Political Violence at a Glance
+   url: https://politicalviolenceataglance.org/2022/10/06/putting-on-a-show-can-be-revolutionary-heres-why/
 
 url_pdf: ''
 url_code: ''
