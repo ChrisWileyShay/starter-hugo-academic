@@ -59,7 +59,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Link to Political Violence at a Glance
+ - name: Link
    url: https://journals.sagepub.com/doi/10.1177/00223433221092938
 
 url_pdf: ''
