@@ -58,9 +58,9 @@ tags: ["Nonviolent resistance", "Insurgencies", "Contentious politics"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-#- name: Link
-#   url: https://journals.sagepub.com/doi/10.1177/00223433221092938
+ links:
+- name: Link
+   url: 'https://journals.sagepub.com/doi/10.1177/00223433221092938'
 
 url_pdf: ''
 url_code: ''
