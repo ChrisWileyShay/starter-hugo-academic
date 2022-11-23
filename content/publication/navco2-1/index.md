@@ -14,10 +14,10 @@ author_notes:
   - 'Equal authorship implied'
 
 date: '23 July 2022'
-doi: ''
+doi: 'https://doi.org/10.1177/00223433221092938'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-07-01T00:00:00Z'
+publishDate: '2022-11-02T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +26,8 @@ publishDate: '2022-07-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Peace Research* (forthcoming)
-publication_short: In *Journal of Peace Research* (forthcoming)
+publication: In *Journal of Peace Research*
+publication_short: In *Journal of Peace Research*
 
 abstract: 'In this article, we introduce an updated version of the Nonviolent and Violent Campaigns and
 Outcomes dataset (NAVCO 2.1), which compiles annual data on 389 nonviolent and violent
@@ -58,9 +58,9 @@ tags: ["Nonviolent resistance", "Insurgencies", "Contentious politics"]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: Link to Article
+   url: https://journals.sagepub.com/doi/10.1177/00223433221092938
 
 url_pdf: ''
 url_code: ''
