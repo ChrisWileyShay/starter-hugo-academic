@@ -26,7 +26,7 @@ publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Civil War Paths* 
-publication_short: In *Civil War PathsResearch* 
+publication_short: In *Civil War Paths* 
 
 abstract: 'In this post, I discuss my recent article published in the *Journal of Peace Research*, in which I explore the long-
 term consequences of violent and nonviolent resistance movements. While violent movements trigger the normalization of severe 
