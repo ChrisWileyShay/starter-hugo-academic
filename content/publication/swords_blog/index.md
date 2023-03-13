@@ -12,7 +12,7 @@ authors:
 #  - 'Equal authorship implied'
 #  
 
-date: '20 February 2023'
+date: '10 March 2023'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -22,28 +22,22 @@ publishDate: '2023-02-20T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Peace Research* 
-publication_short: In *Journal of Peace Research* 
+publication: In *Civil War Paths* 
+publication_short: In *Civil War PathsResearch* 
 
-abstract: 'Human rights abuse tends to increase during national crises, such as civil wars and mass
-nonviolent uprisings. Under what conditions does this abuse abate or persist? I argue that violent 
-challenges provoke much more coercive state responses — exposing more personnel within the security 
-forces to extreme forms of repression and priming them (both leaders and followers) to reproduce 
-these behaviors after the conflict has terminated. This effect is mitigated or avoided when challengers 
-rely on nonviolent tactics instead of violence, leading to less post-conflict abuse. I test this 
-argument with several quantitative methods, which establish a positive association between nonviolent 
-resistance campaigns and subsequent freedom from political killings. Results also suggest that 
-democratization can partially — but not fully — counteract the repressive legacies of violent conflict.
-By choosing to specialize in nonviolent tactics, therefore, resistance leaders avoid a repression trap 
-that not even democratization can fully disarm.'
+abstract: 'In this post, I discuss my recent article published in the *Journal of Peace Research*, in which I argue 
+that violent resistance strategies normalize and institutionalize severe state repression. Because nonviolent tactics 
+do not have this effect, unarmed resistance leads to much less subsequent repression compared to armed resistance. 
+Quantitative evidence suggests that this is true even when nonviolent movements fail to achieve primary goals like regime 
+change (the majority of cases). Results also suggest that the repressive legacies of armed resistance persist even after 
+democratization.'
 
 # Summary. An optional shortened abstract.
-summary:  'In this article, I explore how violent and nonviolent campaigns shape future state repression. 
-I find that nonviolent campaigns lead to significantly fewer extrajudicial killings after campaign 
-termination compared to violent campaigns.'  
+summary:  'In this blog post, I discuss my article *Swords Into Ploughshares?* which explores how nonviolent resistance leads
+to less future state repression compared to violent resistance.'  
 
 tags: ["Nonviolent resistance", "Insurgencies", "Contentious politics", "State repression", "Human rights abuse"]
 
@@ -52,8 +46,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Link
-   url: https://journals.sagepub.com/doi/abs/10.1177/00223433221140432
+ - name: Link to Political Violence at a Glance
+   url: https://www.civilwarpaths.org/2023/03/10/the-long-term-consequences-of-violent-vs-nonviolent-rebellion/
 
 url_pdf: ''
 url_code: ''
