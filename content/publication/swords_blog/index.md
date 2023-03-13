@@ -61,7 +61,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Francisco Goya,** Museo del Prado, Madrid](https://en.wikipedia.org/wiki/Francisco_Goya#/media/File:El_Tres_de_Mayo,_by_Francisco_de_Goya,_from_Prado_thin_black_margin.jpg)'
+  caption: 'Image credit: [**Christopher Shay,** Lalitpur, KathmanduMadrid]()'
   focal_point: 'Middle'
   preview_only: false
 
