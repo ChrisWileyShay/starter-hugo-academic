@@ -51,9 +51,9 @@ tags: ["Nonviolent resistance", "Insurgencies", "Contentious politics", "State r
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Link to JPR
-   url: https://politicalviolenceataglance.org/2022/10/06/putting-on-a-show-can-be-revolutionary-heres-why/
+links:
+ - name: Link
+   url: https://journals.sagepub.com/doi/10.1177/00223433221092938
 
 url_pdf: ''
 url_code: ''
