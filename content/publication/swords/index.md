@@ -12,11 +12,11 @@ authors:
 #  - 'Equal authorship implied'
 #  
 
-date: '23 November 2022'
+date: '20 February 2023'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-11-01T00:00:00Z'
+publishDate: '2023-02-20T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -51,9 +51,9 @@ tags: ["Nonviolent resistance", "Insurgencies", "Contentious politics", "State r
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: Custom Link
+   url: https://journals-sagepub-com.ezp-prod1.hul.harvard.edu/doi/10.1177/00223433221140432
 
 url_pdf: ''
 url_code: ''
