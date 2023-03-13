@@ -46,7 +46,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
- - name: Link to Political Violence at a Glance
+ - name: Link to Civil War Paths
    url: https://www.civilwarpaths.org/2023/03/10/the-long-term-consequences-of-violent-vs-nonviolent-rebellion/
 
 url_pdf: ''
