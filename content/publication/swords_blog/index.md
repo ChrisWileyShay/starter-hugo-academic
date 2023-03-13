@@ -28,12 +28,12 @@ publication_types: ['0']
 publication: In *Civil War Paths* 
 publication_short: In *Civil War PathsResearch* 
 
-abstract: 'In this post, I discuss my recent article published in the *Journal of Peace Research*, in which I argue 
-that violent resistance strategies normalize and institutionalize severe state repression. Because nonviolent tactics 
-do not have this effect, unarmed resistance leads to much less subsequent repression compared to armed resistance. 
-Quantitative evidence suggests that this is true even when nonviolent movements fail to achieve primary goals like regime 
-change (the majority of cases). Results also suggest that the repressive legacies of armed resistance persist even after 
-democratization.'
+abstract: 'In this post, I discuss my recent article published in the *Journal of Peace Research*, in which I explore the long-
+term consequences of violent and nonviolent resistance movements. While violent movements trigger the normalization of severe 
+state repression like extrajudicial killings, nonviolent movements do not. As a result, respect for human rights is likely to be
+much stronger in the aftermath of an unarmed resistance movement compared to an armed movement. Quantitative evidence suggests 
+that this is true even when movements fail to achieve maximalist goals like regime change. Results also suggest that the 
+repressive legacies of armed resistance persist even after (and despite) democratization.'
 
 # Summary. An optional shortened abstract.
 summary:  'In this blog post, I discuss my article *Swords Into Ploughshares?* which explores how nonviolent resistance leads
