@@ -61,7 +61,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Christopher Shay,** Lalitpur, KathmanduMadrid]()'
+  caption: 'Image credit: [**Christopher Shay,** Lalitpur, Kathmandu]()'
   focal_point: 'Middle'
   preview_only: false
 
