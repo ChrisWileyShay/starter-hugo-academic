@@ -53,7 +53,7 @@ featured: true
 # Custom links (uncomment lines below)
  links:
  - name: Link to JPR
-   url: https://doi.org/10.1177/00223433221140432
+   url: https://journals.sagepub.com/doi/abs/10.1177/00223433221140432
 
 url_pdf: ''
 url_code: ''
