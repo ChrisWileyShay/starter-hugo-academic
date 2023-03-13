@@ -25,8 +25,8 @@ publishDate: '2023-02-20T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Peace Research* (forthcoming)
-publication_short: In *Journal of Peace Research* (forthcoming)
+publication: In *Journal of Peace Research* 
+publication_short: In *Journal of Peace Research* 
 
 abstract: 'Human rights abuse tends to increase during national crises, such as civil wars and mass
 nonviolent uprisings. Under what conditions does this abuse abate or persist? I argue that violent 
