@@ -1,5 +1,5 @@
 ---
-title: 'Swords into ploughshares? Why human rights abuses persist after resistance campaigns'
+title: 'The Long-term Consequences of Violent Vs. Nonviolent Rebellion'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
