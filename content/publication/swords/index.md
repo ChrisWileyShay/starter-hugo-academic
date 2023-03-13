@@ -51,9 +51,9 @@ tags: ["Nonviolent resistance", "Insurgencies", "Contentious politics", "State r
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Custom Link
-   url: https://journals-sagepub-com.ezp-prod1.hul.harvard.edu/doi/10.1177/00223433221140432
+# links:
+# - name: Custom Link
+#   url: https://journals-sagepub-com.ezp-prod1.hul.harvard.edu/doi/10.1177/00223433221140432
 
 url_pdf: ''
 url_code: ''
