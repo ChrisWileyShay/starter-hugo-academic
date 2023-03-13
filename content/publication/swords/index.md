@@ -53,7 +53,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Link
-   url: https://journals.sagepub.com/doi/10.1177/00223433221092938
+   url: https://journals.sagepub.com/doi/abs/10.1177/00223433221140432
 
 url_pdf: ''
 url_code: ''
