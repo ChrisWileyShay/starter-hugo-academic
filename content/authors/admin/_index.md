@@ -73,9 +73,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a post-doctoral research associate at the University of Connecticut’s Human Rights Institute and an International Security Program fellow at Harvard University’s Belfer Center for Science and International Affairs. I study insurgencies, civil resistance movements, and their effects on societies and governments.
+I am a postdoctoral research fellow at Harvard University's T.H. Chan School of Public Health. I study insurgencies, civil resistance movements, and their effects on societies and governments.
 
-Primarily, my research tries to explain why some conflicts lead to worse subsequent human rights outcomes than others, and how these legacies can be overcome. This research draws on a diverse array of methods, such as elite interviews, large-n observational studies, and quasi-experimental research designs. My work has been featured in the *Journal of Global Security Studies*, the *Journal of Peace Research*, and by Political Violence at a Glance and the International Institute for Strategic Studies.
+Primarily, my research tries to explain why some conflicts lead to worse subsequent human rights outcomes than others, and how these legacies can be overcome. I am especially interested in transitional justice, and whether instruments like prosecutions and truth commisions can bolster democratization. This research draws on a diverse array of methods, such as elite interviews, large-n observational studies, and quasi-experimental research designs. My work has been featured in the *Journal of Global Security Studies*, the *Journal of Peace Research*, and by Political Violence at a Glance, the International Institute for Strategic Studies, and the Washington Post.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
