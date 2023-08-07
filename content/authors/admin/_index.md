@@ -6,14 +6,15 @@ title: Christopher Wiley Shay
 superuser: true
 
 # Role/position/tagline
-role: Post-doctoral Research Associate
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Connecticut 
-    url: https://humanrights.uconn.edu/person/christopher-shay/#:~:text=Christopher%20Shay%20is%20a%20post,%2C%20and%20post%2Dconflict%20outcomes./
   - name: Harvard University
     url: https://www.belfercenter.org/person/christopher-wiley-shay
+  - name: University of Connecticut 
+    url: https://humanrights.uconn.edu/person/christopher-shay/#:~:text=Christopher%20Shay%20is%20a%20post,%2C%20and%20post%2Dconflict%20outcomes./
+
 # Short bio (displayed in user profile at end of posts)
 bio: I study civil wars and nonviolent resistance movements, and especially their legacies on societies and governments.
 
