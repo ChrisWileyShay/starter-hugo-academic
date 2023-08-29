@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christopher Wiley Shay
+title: Christopher Wiley Shay, PhD
 
 # Is this the primary user of the site?
 superuser: true
