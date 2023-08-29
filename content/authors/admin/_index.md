@@ -14,7 +14,7 @@ organizations:
     url: https://connects.catalyst.harvard.edu/Profiles/display/Person/215965
   
 # Short bio (displayed in user profile at end of posts)
-bio: I study civil wars and nonviolent resistance movements, and especially their legacies on societies and governments.
+bio: I study resistance movements, their legacies on societies and governments, and how these legacies help or hinder democratization.  
 
 # Interests to show in About widget
 interests:
