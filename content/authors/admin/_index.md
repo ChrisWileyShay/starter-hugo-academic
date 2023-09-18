@@ -74,6 +74,6 @@ highlight_name: true
 
 I am a postdoctoral research fellow at Harvard University's T.H. Chan School of Public Health, where I study human rights abuse in the context of civil wars and popular uprisings. 
 
-I am particularly interested in explaining why severe human rights abuse sometimes persists despite democratization, and how it can finally be ended. This work draws on qualitative fieldwork from South Asia, quantitative analyses, and several original datasets. My peer-reviewed articles have been published in journals such as the *Journal of Global Security Studies* and the *Journal of Peace Research*, while my policy-oriented scholarship has been featured by the International Institute for Strategic Studies, Political Violence at a Glance, and the Washington Post.
+I am particularly interested in explaining why severe human rights abuse sometimes persists despite democratization, and how it can finally be ended. This work draws on qualitative fieldwork from South Asia, quantitative analyses, and several original datasets. My peer-reviewed articles have been published by the *Journal of Global Security Studies* and the *Journal of Peace Research*, while my policy-oriented scholarship has been featured by the International Institute for Strategic Studies, Political Violence at a Glance, and the Washington Post.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
