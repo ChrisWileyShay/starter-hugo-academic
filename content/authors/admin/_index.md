@@ -18,9 +18,9 @@ bio: I study resistance movements, their legacies on societies and governments, 
 
 # Interests to show in About widget
 interests:
-  - Insurgencies
+  - Human Rights & State Repression
   - Nonviolent resistance
-  - Human rights & state repression
+  - Insurgencies
   - Transitional justice
 
 # Education to show in About widget
