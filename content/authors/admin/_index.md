@@ -72,9 +72,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral research fellow at Harvard University's T.H. Chan School of Public Health. I study insurgencies, civil resistance movements, and their effects on societies and governments.
-
-Primarily, my research tries to explain why some conflicts lead to worse subsequent human rights outcomes than others, and how these legacies can be overcome. I am especially interested in transitional justice, and whether instruments like prosecutions and truth commisions can bolster democratization. This research draws on a diverse array of methods, such as elite interviews, large-n observational studies, and quasi-experimental research designs. My work has been featured in the *Journal of Global Security Studies*, the *Journal of Peace Research*, and by Political Violence at a Glance, the International Institute for Strategic Studies, and the Washington Post.
-
+I am a postdoctoral research fellow at Harvard University's T.H. Chan School of Public, where I study human rights abuse in the context of civil wars and popular uprisings. I am particularly interested in explaining why severe human rights abuse sometimes persists despite democratization, and how it can finally be ended. This work draws on qualitative fieldwork from South Asia, quantitative analyses, and several original datasets. My peer-reviewed articles have been published in journals such as the \textit{Journal of Global Security Studies} and the \textit{Journal of Peace Research}, while my policy-oriented scholarship has been featured by the International Institute for Strategic Studies, Political Violence at a Glance, and the Washington Post.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
