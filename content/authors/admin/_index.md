@@ -6,22 +6,21 @@ title: Christopher Wiley Shay, PhD
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Harvard University
-    url: https://connects.catalyst.harvard.edu/Profiles/display/Person/215965
+    url: https://ash.harvard.edu/people/dr-christopher-shay/
   
 # Short bio (displayed in user profile at end of posts)
-bio: I study resistance movements, their legacies on societies and governments, and how these legacies help or hinder democratization.  
+bio: I study mass resistance movements, their legacies on societies and governments, and how these legacies help or hinder democratization.  
 
 # Interests to show in About widget
 interests:
-  - Human Rights & State Repression
-  - Nonviolent Resistance
-  - Insurgencies
-  - Transitional Justice
+  - "Violent & Nonviolent Resistance Movements"
+  - "State Repression & Rule of Law"
+  - "Transitional Justice"
 
 # Education to show in About widget
 education:
@@ -72,8 +71,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral research fellow at Harvard University's T.H. Chan School of Public Health, where I study human rights abuse in the context of civil wars and popular uprisings. 
+I am a research associate at Harvard University's Ash Center for Democratic Governance and Innovation, where I study nonviolent resistance movements, civil wars, and human rights abuse. I am also affiliated with the T.H. Chan School of Public Health, where my work focuses on transitional justice.
 
-I am particularly interested in explaining why severe human rights abuse sometimes persists despite democratization, and how it can finally be ended. This work draws on qualitative fieldwork from South Asia, quantitative analyses, and several original datasets. My peer-reviewed articles have been published by the *Journal of Global Security Studies* and the *Journal of Peace Research*, while my policy-oriented scholarship has been featured by the International Institute for Strategic Studies, Political Violence at a Glance, and the Washington Post.
+I am particularly interested in explaining why severe human rights abuse sometimes persists despite democratization and how it can finally be ended. This research integrates qualitative fieldwork from South Asia, quantitative analyses, and several original datasets. My peer-reviewed articles have been published in *International Studies Quarterly*, the *Journal of Peace Research*, and the *Journal of Global Security Studies*, while my policy-oriented scholarship has been featured by the International Institute for Strategic Studies, *Political Violence at a Glance*, and *The Washington Post*.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
