@@ -57,8 +57,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'The Rose Revolution, Tbilisi, Georgia. Image credit: [**Zaraza**,] (https://commons.wikimedia.org/wiki/File:Georgia,_Tbilisi_-_Rose_Revolution_(2003).jpg)'
-  focal_point: 'Middle'
+  caption: 'President Barack Obama meets with Opposition Leader Aung San Suu Kyi of Burma, in the Oval Office, Sept. 19, 2012. Image credit: [**Pete Souza,**](https://obamawhitehouse.archives.gov/blog/2012/09/20/president-obama-meets-aung-san-suu-kyi, Public Domain, https://commons.wikimedia.org/w/index.php?curid=83676355)'
+  focal_point: 'Top'
   preview_only: false
 
 # Associated Projects (optional).
