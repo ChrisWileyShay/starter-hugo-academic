@@ -19,7 +19,7 @@ date: '16 October 2025'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-08-01T00:00:00Z'
+publishDate: '2025-09-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +28,8 @@ publishDate: '2025-08-01T00:00:00Z'
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: In the Ash Center for Democratic Governance and Innovation
-publication_short: In Ash Center for Democratic Governance and Innovation 
+publication: Ash Center for Democratic Governance and Innovation
+publication_short: Ash Center for Democratic Governance and Innovation 
 
 abstract: "Protests against the Trump administration are peaceful, large, and widespread. But are they concentrated in liberal enclaves—places already staunchly opposed to the President’s policies—or are they also spreading to areas friendlier to the GOP? In this article, we analyze new data from the Crowd Counting Consortium (CCC) showing that protests are increasingly dispersed across the country; in fact, more U.S. counties are hosting protests than ever before. Moreover, as of September 2025, most of these protest counties were actually won by President Trump in the 2024 election. Additionally, we find that protesters are mobilizing in new counties that had not previously hosted protests. Taken together, these findings suggest that the movement is expanding its geographic reach and challenging the administration in the heart of its own electoral base."   
 
